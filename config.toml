@@ -1,0 +1,11 @@
+baseurl = "http://ligature.io/"
+languageCode = "en-us"
+title = "ligature.io"
+theme = "greyshade"
+
+[author]
+name = "ligature"
+email = "ryan@ligature.io"
+
+[params]
+description = "Coding, Go, Ruby, ansible, and more."
